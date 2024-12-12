@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 - 👨🏻‍🎓 I'm a high school student from Taiwan.
 <!--
 **zc-0120/zc-0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
